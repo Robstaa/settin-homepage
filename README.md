@@ -1,4 +1,7 @@
 # Settin Homepage
+
+Anforderungen für die Website
+
 ## Webshop
 
 - Lifestyle von Settin
